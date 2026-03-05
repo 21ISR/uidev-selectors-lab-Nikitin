@@ -45,25 +45,25 @@ body {
 }
 
 /* Заголовок в секции-герое */
-.todo {
+.hero-title {
     font-size: 32px;
     margin-bottom: 10px;
 }
 
 /* Подзаголовок / текст в секции-герое */
-.todo {
+.hero-text {
     font-size: 20px;
 }
 
 /* Секция "О нас" */
-.todo {
+.about-section {
     padding: 40px;
     text-align: center;
     background-color: white;
 }
 
 /* Фотография команды в секции "О нас" */
-.todo {
+.about-image {
     width: 80%;
     max-width: 600px;
     margin-top: 20px;
