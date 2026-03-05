@@ -170,7 +170,7 @@ body {
 }
 
 /* Основная кнопка (оранжевая, для призыва к действию) */
-.btn-submit {
+.btn-primary {
     background-color: #ff9800;
     color: white;
 }
