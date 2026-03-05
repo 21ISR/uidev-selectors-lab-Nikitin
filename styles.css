@@ -106,7 +106,7 @@ body {
 }
 
 /* Изображение внутри карточки портфолио */
-.portfolio-item {
+.portfolio-item img {
     width: 100%;
     max-width: 300px;
     border-radius: 10px;
