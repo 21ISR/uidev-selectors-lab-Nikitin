@@ -7,7 +7,7 @@ body {
 }
 
 /* Шапка сайта (тёмный фон, flex-строка, логотип слева, навигация справа) */
-.todo {
+.header {
     background-color: #222;
     color: white;
     display: flex;
@@ -17,27 +17,27 @@ body {
 }
 
 /* Логотип / название компании в шапке */
-.todo {
+.logo {
     font-size: 24px;
     font-weight: bold;
 }
 
 /* Навигационное меню — список ссылок в шапке (горизонтальный flex) */
-.todo {
+.nav-list {
     list-style: none;
     display: flex;
     gap: 20px;
 }
 
 /* Отдельная ссылка в навигации */
-.todo {
+.nav-link {
     color: white;
     text-decoration: none;
     font-size: 18px;
 }
 
 /* Секция-герой (большой баннер с призывом к действию) */
-.todo {
+.hero-section {
     text-align: center;
     padding: 60px 20px;
     background-color: #444;
